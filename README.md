@@ -1,15 +1,15 @@
 
-###Green Team Q1: Asthma Outcomes in Relation to PM2.5 and Ozone Exposures
+###Green Team Q1: Asthma Outcomes in Relation to PM2.5 and Ozone Exposures###
 
-##Query:
+##Query:##
 
 Among pediatric patients with an 'asthma-like phenotype', is exposure to PM2.5 and ozone associated with responsiveness to treatment? (In other words, are exposures higher in patients who are non-responsive to treatment than in patients who are responsive to treatment?)
 
-##Goal:
+##Goal:##
 
 Patients with asthma are equisitely sensitive to airborne pollutants such as particulate matter <=2.5 micrometers in diameter (PM2.5) and ozone. Pediatric patients are even more sensitive than adult patients. This query should confirm our assertion and overall use case assumption that high environmental exposures are associated with poor clinical outcomes among patients with an 'asthma-like phenotype'. By so doing, the query will allow us to validate our exposure models and test the functionality of our system and approach.
 
-##Data Types, Sources, and Routes:
+##Data Types, Sources, and Routes:##
 
 Patient Data: Green Team HuSH+ Patient Data
 (Important caveat: the existing HuSH+ patient data set is NOT restricted to pediatric patients; moreover, all dates, ages, and other PHI have been randomized and cannot be used for inference)
