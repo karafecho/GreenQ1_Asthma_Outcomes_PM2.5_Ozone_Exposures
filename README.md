@@ -7,7 +7,7 @@ Among pediatric patients with an 'asthma-like phenotype', is exposure to PM2.5 a
 
 ## Goal:
 
-Patients with asthma are equisitely sensitive to airborne pollutants such as particulate matter <=2.5 micrometers in diameter (PM2.5) and ozone. Pediatric patients are even more sensitive than adult patients. This query should confirm our assertion and overall use case assumption that high environmental exposures are associated with poor clinical outcomes among patients with an 'asthma-like phenotype'. By so doing, the query will allow us to validate our exposure models and test the functionality of our system and approach.
+Patients with asthma are sensitive to airborne pollutants such as particulate matter <=2.5 micrometers in diameter (PM2.5) and ozone. Pediatric patients are even more sensitive than adult patients. This query should confirm our assertion and overall use case assumption that high environmental exposures are associated with poor clinical outcomes among patients with an 'asthma-like phenotype'. By so doing, the query will allow us to validate our exposure models and test the functionality of our system and approach.
 
 ## Data Types, Sources, and Routes:
 
