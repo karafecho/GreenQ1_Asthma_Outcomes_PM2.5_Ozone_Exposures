@@ -14,7 +14,7 @@ Patients with asthma are sensitive to airborne pollutants such as particulate ma
 Patient Data: Green Team HuSH+ Patient Data
 (Important caveat: the existing HuSH+ patient data set is NOT restricted to pediatric patients; moreover, all dates, ages, and other PHI have been randomized and cannot be used for inference)
 
-Exposure Data: exposure estimates from the Center for the Community Modeling and Assessment System (CMAS), UNC Institute for the Environment; raw sensor data from US EPA
+Exposure Data: PM2.5 and ozone exposure estimates from the Center for the Community Modeling and Assessment System (CMAS), UNC Institute for the Environment; raw sensor data from US EPA
 
 **Input:** HuSH+ patients with <=2 or >2 ED visits over 12-month period after diagnosis for 'asthma-like phenotype'; patient latitude and longitude
 
